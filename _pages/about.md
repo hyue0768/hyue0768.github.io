@@ -21,7 +21,7 @@ I am currently an MPhil student from Data Science and Analytics Thrust at The Ho
 
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS).
 
-I would graduate in June next year. And I am looking for a potential Ph.D position related to the above topics. If you are interested in my experiences, please feel free to reach out though hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in June next year. And I am looking for a **potential Ph.D position** related to the above topics. If you are interested in my experiences, please feel free to reach out though **hhhhhy499 AT gmail.com** or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
 # 🔥 News
@@ -36,7 +36,7 @@ I would graduate in June next year. And I am looking for a potential Ph.D positi
 # 🎖 Honors and Awards
 - *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.05* First-class Scholarship (1/216).
-- *2022.10* National Scholarship (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
+- *2022.10* **National Scholarship** (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
 - *2022.10* Special-class Scholarship (top 0.05%, 10/20224).
 - *2021.06* First Prize of China College Student Computing Contest.
 - *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
