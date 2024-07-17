@@ -19,16 +19,17 @@ redirect_from:
 
 I am currently an MPhil student from Data Science and Analytics Thrust at The Hong Kong University of Science and Technology (Guangzhou) under the guidance of Prof. Jing TANG. Before pursuing his Mphil degree, he earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu.
 
-I am deeply interested in the Decentralized Finance (DeFi) Applications and Blockchain. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS).
+I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS).
 
-I would graduate in June next year. And I am looking for a potential P.h.D position related to the above topics. If you are interested in my experiences, please feel free to reach out though hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in June next year. And I am looking for a potential Ph.D position related to the above topics. If you are interested in my experiences, please feel free to reach out though hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward S\&P 2025. In this paper, we analyse the asymmetries and cooperations in the PBS and reveals the negative results of a monopolistic builder.
+- *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward S\&P 2025. In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
 
 # 📝 Publications
-- *Shuzheng WANG, Yue HUANG, Wenqin ZHANG, Yuming HUANG, Jing TANG. (2025), Measuring global urban complexity from the perspective of living structure, Urban Informatics, x(x), xx–xx (under review).
+- *Shuzheng WANG, Yue HUANG, Wenqin ZHANG, Yuming HUANG, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on
+Security and Privacy, (Submitted and Under Review).
 <!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -46,8 +47,16 @@ I would graduate in June next year. And I am looking for a potential P.h.D posit
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
+- *2023.05* First-class Scholarship (1/216).
+- *2022.10* National Scholarship (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
+- *2022.10* National Scholarship (top 0.05%, 10/20224).
+- *2021.06* First Prize of China College Student Computing Contest.
+- *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
+- *2021.05* Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.
+- *2021.04* Third Prize of the 16th “Challenge Cup” Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.
+
+
 
 # 📖 Educations
 - *2023.09 - 2025.06 (now)*, Master of Philosophy in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
@@ -56,4 +65,5 @@ I would graduate in June next year. And I am looking for a potential P.h.D posit
 
 # 💻 Experiences
 - *2022.11 - 2023.07*, Research Assistant at HKUST (GZ), China.
+- *2019.12 - 2022.10*, Front-end \& Back-end Developer at Guangdong Smart Agriculture Engineering Technology Research Center.
 
