@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an MPhil student from Data Science and Analytics Thrust at The Hong Kong University of Science and Technology (Guangzhou) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). Before pursuing his Mphil degree, he earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu.
 
-I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS).
+I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS) in Ethereum 2.0.
 
 I would graduate in June next year. And I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out though hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
