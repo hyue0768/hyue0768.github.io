@@ -28,9 +28,9 @@ I would graduate in June next year. And I am looking for a **potential Ph.D posi
 - *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward [S&P 2025](https://sp2025.ieee-security.org/). In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
 
 # 📝 Publications
-- *Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Submitted and Under Review).
-- *Jiande Huang, Yue HUANG, Shahbaz Gul Hassan, Longqin Xu, Shuangyin Liu. (2021), Dissolved oxygen content interval prediction based on auto regression recurrent neural network, Journal of Ambient Intelligence and Humanized Computing.
-- *Shuangyin Liu, Yue HUANG, Jiande Huang, Longqin Xu. (2021), A Method for Predicting the Change of Dissolved Xxygen in the Water Quality of Tilapia Aquaculture. Chinese Invention Patent.
+- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Submitted and Under Review).
+- Jiande Huang, Yue HUANG, Shahbaz Gul Hassan, Longqin Xu, Shuangyin Liu. (2021), Dissolved oxygen content interval prediction based on auto regression recurrent neural network, Journal of Ambient Intelligence and Humanized Computing.
+- Shuangyin Liu, Yue HUANG, Jiande Huang, Longqin Xu. (2021), A Method for Predicting the Change of Dissolved Xxygen in the Water Quality of Tilapia Aquaculture. Chinese Invention Patent.
 
 
 # 🎖 Honors and Awards
