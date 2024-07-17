@@ -25,7 +25,7 @@ I would graduate in June next year. And I am looking for a **<font color=red>pot
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 I am preparing a paper about Dencun Upgrade and builder behaviors, and plan to submit to [WWW 25](https://hyue0768.github.io) as first author. If you are interested, please concact me!
+- *2024.07*: &nbsp;🎉🎉 I plan to submit a paper regrading Dencun Upgrade and builder behaviors to [WWW 25](https://hyue0768.github.io) as first author. If you are interested, please concact me!
 - *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward [S&P 2025](https://sp2025.ieee-security.org/). In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
 
 # 📝 Publications
