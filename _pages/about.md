@@ -21,10 +21,11 @@ I am currently an MPhil student from Data Science and Analytics Thrust at The Ho
 
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS).
 
-I would graduate in June next year. And I am looking for a **potential Ph.D position** related to the above topics. If you are interested in my experiences, please feel free to reach out though **hhhhhy499 AT gmail.com** or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in June next year. And I am looking for a **potential Ph.D position** related to the above topics. If you are interested in my experiences, please feel free to reach out though hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 I am preparing a paper about Dencun Upgrade and builder behaviors, if you are interested, please concact me!
 - *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward [S&P 2025](https://sp2025.ieee-security.org/). In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
 
 # 📝 Publications
