@@ -25,7 +25,7 @@ I would graduate in June next year. And I am looking for a potential Ph.D positi
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward S\&P 2025(https://sp2025.ieee-security.org/). In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
+- *2024.06*: &nbsp;🎉🎉 I have submitted a paper toward S&P 2025(https://sp2025.ieee-security.org/). In this paper, we analysed the asymmetries and cooperations in the PBS and revealed the negative results of a monopolistic builder.
 
 # 📝 Publications
 - *Shuzheng WANG, Yue HUANG, Wenqin ZHANG, Yuming HUANG, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on
@@ -50,6 +50,6 @@ Security and Privacy, (Submitted and Under Review).
 
 
 # 💻 Experiences
-- *2022.11 - 2023.07*, Research Assistant at HKUST (GZ), China.
-- *2019.12 - 2022.10*, Front-end \& Back-end Developer at Guangdong Smart Agriculture Engineering Technology Research Center.
+- *2022.11 - 2023.07*, Research Assistant at HKUST (GZ), Guangzhou, China.
+- *2019.12 - 2022.10*, Front-end & Back-end Developer at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
