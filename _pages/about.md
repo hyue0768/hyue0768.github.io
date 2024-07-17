@@ -30,8 +30,6 @@ I would graduate in June next year. And I am looking for a **<font color=red>pot
 
 # 📝 Publications
 - Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Submitted and Under Review).
-{% - Jiande Huang, Yue HUANG, Shahbaz Gul Hassan, Longqin Xu, Shuangyin Liu. (2021), Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network, Journal of Ambient Intelligence and Humanized Computing. %}
-{% - Shuangyin Liu, Yue HUANG, Jiande Huang, Longqin Xu. (2021), A Method for Predicting the Change of Dissolved Oxygen in the Water Quality of Tilapia Aquaculture. Chinese Invention Patent.%}
 
 
 # 🎖 Honors and Awards
