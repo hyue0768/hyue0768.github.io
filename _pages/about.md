@@ -41,7 +41,7 @@ I would graduate in June next year. And I am looking for a **<font color=red>pot
 - *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
 - *2021.05* Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.
 - *2021.04* Third Prize of the 16th “Challenge Cup” Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.
-
+- *2021.09* *2020.09* Twice Merit Students, Twice National Inspiration Scholarships
 
 
 # 📖 Educations
