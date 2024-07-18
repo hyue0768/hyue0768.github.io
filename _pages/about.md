@@ -51,6 +51,6 @@ I would graduate in June next year. And I am looking for a **<font color=red>pot
 
 
 # 💻 Experiences
-- *2022.11 - 2023.07*, Research Assistant at HKUST (GZ), Guangzhou, China.
+- *2022.11 - 2023.08*, Research Assistant at HKUST (GZ), Guangzhou, China.
 - *2019.12 - 2022.10*, Front-end & Back-end Developer at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
