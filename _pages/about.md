@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am currently an MPhil student from [Data Science and Analytics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu.
 
-I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS) in Ethereum 2.0. If you have some ideas interested, please share me and then we can do something meaningful for both research and ecosystem.
+I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS) in Ethereum 2.0.
 
 I would graduate in June next year. And I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
