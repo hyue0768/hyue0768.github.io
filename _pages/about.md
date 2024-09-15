@@ -30,7 +30,7 @@ I would graduate in June next year. And I am looking for a **<font color=red>pot
 
 
 # 📝 Publications
-- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), Drift to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Submitted and Under Review).
+- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Rejected).
 
 
 # 🎖 Honors and Awards
