@@ -20,17 +20,19 @@ redirect_from:
 My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am currently an MPhil student from [Data Science and Analytics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu.
 
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on the measurements and analysis of DeFi like Maximal Extractable Value (MEV) and Proposer Builder Separation (PBS) in Ethereum 2.0.
+<!-- What's more, I am also interested in the combination of detection and software engineering techniques. -->
 
-I would graduate in June next year. And I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in May next year. And I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Plan to submit a paper regrading Dencun Upgrade and builder behaviors to [WWW 25](https://hyue0768.github.io) as first author. If you are interested, please concact me!
+- *2024.10*: &nbsp;🎉🎉 Have submitted our papers 'From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market' and 'Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844' to WWW 25.  
 - *2024.06*: &nbsp;🎉🎉 Have submitted a paper toward [S&P 2025](https://sp2025.ieee-security.org/). In this paper, we identified two asymmetries among builders through the examination of builder bidding data, which led to different block valuations and bidding strategies during the MEV-Boost auction stage. By employing the concepts of [expectational and robust fairness](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285), we demonstrated that the asymmetry fosters a monopolistic tendency, exacerbating fairness erosion within the network. Furthermore, we also explored the implications of a monopolistic builder scenario, highlighting the negative effects of earnings losses of proposers and discrimination in block construction.
 
 
 # 📝 Publications
-- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. (2025), From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market, 46th IEEE Symposium on Security and Privacy, (Rejected).
+-	Yue HUANG, Shuzheng Wang, Yuming Huang, Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
+- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market. Submitted to WWW 25.
 
 
 # 🎖 Honors and Awards
