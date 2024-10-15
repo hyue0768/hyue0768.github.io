@@ -26,13 +26,13 @@ I would graduate in May next year. And I am looking for a **<font color=red>pote
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Submitted our papers 'From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market' and 'Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844' to WWW 25.  
+- *2024.10*: &nbsp;🎉🎉 Submitted our papers 'Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market' and 'Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844' to WWW 25.  
 - *2024.06*: &nbsp;🎉🎉 Submitted a paper toward [S&P 2025](https://sp2025.ieee-security.org/). In this paper, we identified two asymmetries among builders through the examination of builder bidding data, which led to different block valuations and bidding strategies during the MEV-Boost auction stage. By employing the concepts of [expectational and robust fairness](https://dl.acm.org/doi/pdf/10.1145/3448016.3457285), we demonstrated that the asymmetry fosters a monopolistic tendency, exacerbating fairness erosion within the network. Furthermore, we also explored the implications of a monopolistic builder scenario, highlighting the negative effects of earnings losses of proposers and discrimination in block construction.
 
 
 # 📝 Publications
--	Yue HUANG, Shuzheng Wang, Yuming Huang, Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
-- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Jing TANG. From Oligopoly to Monopoly: Analyzing Asymmetry and Fairness in Ethereum’s Block Building Market. Submitted to WWW 25.
+-	Yue HUANG, Shuzheng Wang, Yuming Huang and Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
+- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25.
 
 
 # 🎖 Honors and Awards
