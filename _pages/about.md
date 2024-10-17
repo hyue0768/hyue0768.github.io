@@ -31,8 +31,8 @@ I would graduate in May next year. And I am looking for a **<font color=red>pote
 
 
 # 📝 Publications
--	Yue HUANG, Shuzheng Wang, Yuming Huang and Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
-- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25.
+-	Yue HUANG, Shuzheng Wang, Yuming Huang and Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25. (PDF)[https://arxiv.org/pdf/2410.12352]
+- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25. (PDF)[https://arxiv.org/pdf/2410.12352]
 
 
 # 🎖 Honors and Awards
