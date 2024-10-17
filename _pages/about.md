@@ -26,14 +26,15 @@ I would graduate in May next year. And I am looking for a **<font color=red>pote
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Released our papers ['Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market'](https://arxiv.org/pdf/2410.12352) and ['Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844']().  
+- *2024.10*: &nbsp;🎉🎉 Released our paper ['Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844'](). 
+- *2024.10*: &nbsp;🎉🎉 Released our paper ['Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market'](https://arxiv.org/pdf/2410.12352).
 - *2024.06*: &nbsp;🎉🎉 Submitted a paper toward S&P 2025. In this paper, we identified two asymmetries among builders through the examination of builder bidding data, which led to different block valuations and bidding strategies during the MEV-Boost auction stage. By employing the concepts of expectational and robust fairness, we demonstrated that the asymmetry fosters a monopolistic tendency, exacerbating fairness erosion within the network. Furthermore, we also explored the implications of a monopolistic builder scenario, highlighting the negative effects of earnings losses of proposers and discrimination in block construction.
 
 
 # 📝 Publications
 (# represents the corresponding author of each paper.)
--	Yue HUANG, Shuzheng Wang, Yuming Huang and Jing TANG. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
-- Shuzheng Wang, Yue HUANG, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25.
+-	**Yue HUANG**, Shuzheng Wang, Yuming Huang and Jing TANG#. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
+- Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25.
 
 
 # 🎖 Honors and Awards
