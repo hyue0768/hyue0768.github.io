@@ -26,8 +26,8 @@ I would graduate in May next year. And I am looking for a **<font color=red>pote
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](). 
-- *2024.10*: &nbsp;🎉🎉 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352).
+- *2024.10*: &nbsp;🎉🎉 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](). Any feedback is welcome.
+- *2024.10*: &nbsp;🎉🎉 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352). Any feedback is welcome.
 - *2024.06*: &nbsp;🎉🎉 Submitted a paper toward S&P 2025. In this paper, we identified two asymmetries among builders through the examination of builder bidding data, which led to different block valuations and bidding strategies during the MEV-Boost auction stage. By employing the concepts of expectational and robust fairness, we demonstrated that the asymmetry fosters a monopolistic tendency, exacerbating fairness erosion within the network. Furthermore, we also explored the implications of a monopolistic builder scenario, highlighting the negative effects of earnings losses of proposers and discrimination in block construction.
 
 
