@@ -39,6 +39,7 @@ I would graduate in May next year. And I am looking for a **<font color=red>pote
 
 
 # 🎖 Honors and Awards
+- *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.05* First-class Scholarship (1/216).
 - *2022.10* **National Scholarship** (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
