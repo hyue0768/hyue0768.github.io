@@ -22,7 +22,7 @@ My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. 
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on DeFi measurements and security issues.
 <!-- What's more, I am also interested in the combination of detection and software engineering techniques. -->
 
-I would graduate in 2025 August. And I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in 2025 August. I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
 # 🔥 News
