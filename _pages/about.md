@@ -42,7 +42,8 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 - *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.05* First-class Scholarship (1/216).
-- *2022.10* **National Scholarship** (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
+- *2022.10* **<font color=red>National Scholarship</font>**
+ (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
 - *2022.10* Special-class Scholarship (top 0.05%, 10/20224).
 - *2021.06* First Prize of China College Student Computing Contest.
 - *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
