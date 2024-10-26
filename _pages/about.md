@@ -61,3 +61,7 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 - *2022.11 - 2023.08*, Research Assistant at HKUST (GZ), Guangzhou, China.
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
+# 📜 Services
+- WWW 2025 Reviewer
+- VLDB 2024 Student Volunteer
+- DSAA 5020 Teaching Assistant
