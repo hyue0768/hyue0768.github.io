@@ -61,6 +61,6 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
 # 📜 Services
-- WWW 2025 Reviewer
-- VLDB 2024 Student Volunteer
-- HKUST(GZ) DSAA 5020 Teaching Assistant
+- Reviewer for WWW 2025
+- Student Volunteer for VLDB 2024
+- Teaching Assistant at HKUST(GZ) DSAA 5020 
