@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am currently an MPhil student from [Data Science and Analytics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu.
+My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am currently an MPhil student from [Data Science and Analytics Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
+<!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
 
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on DeFi measurements and security issues.
 
