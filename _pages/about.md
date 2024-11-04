@@ -63,4 +63,4 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 # 📜 Services
 - Reviewer for WWW 2025
 - Student Volunteer for VLDB 2024
-- Teaching Assistant at HKUST(GZ) DSAA 5020 
+- Teaching Assistant of HKUST(GZ) DSAA 5020 
