@@ -24,6 +24,10 @@ I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi)
 I would graduate in 2025 August. I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 
+
+I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding DeFi and Blockchain. Also, I contributed some PRs towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)(454 🌟). 
+
+
 # 🔥 News
 - *2024.10*: &nbsp;📌📌 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](https://arxiv.org/pdf/2411.03892). In this paper, We evaluate the strategies of builders and rollups after EIP-4844. We find that the efficiency of their strategies is like the two sides of the same coin. When the builders strategy is efficient, rollups may need to pay more fees. Oppositely, when rollups adopt the efficient strategy and offer lower fees, builders may face block profits lower than potential profits. Any feedback is welcome. 
 - *2024.10*: &nbsp;📌📌 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352). Any feedback is welcome.
@@ -63,4 +67,4 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 # 📜 Services
 - Reviewer for WWW 2025
 - Student Volunteer for VLDB 2024
-- Teaching Assistant of HKUST(GZ) DSAA 5020 
+- Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
