@@ -65,6 +65,6 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
 # 📜 Services
-- Reviewer for WWW 2025
+- Review for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
 - Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
