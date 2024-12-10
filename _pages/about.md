@@ -25,7 +25,7 @@ I would graduate in 2025 August. I am looking for a **<font color=red>potential 
 
 
 
-I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding DeFi and Blockchain. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)(454 🌟). 
+I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding DeFi and Blockchain. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)(463 🌟). 
 
 
 # 🔥 News
