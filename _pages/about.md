@@ -23,7 +23,7 @@ I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi)
 
 I would graduate in 2025 August. I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
-> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese, plz carry me publish some top-tier paper in English). 
+> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese). 
 
 
 I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding DeFi and Blockchain. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)(463 🌟). 
