@@ -30,6 +30,8 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 🔥 News
+- *2025.07*: &nbsp;📌📌 Submitted our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2410.12352) to Sigmetrics 2026.
+- *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted as Poster in WWW 2025.
 - *2024.10*: &nbsp;📌📌 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](https://arxiv.org/pdf/2411.03892). In this paper, We evaluate the strategies of builders and rollups after EIP-4844. We find that the efficiency of their strategies is like the two sides of the same coin. When the builders strategy is efficient, rollups may need to pay more fees. Oppositely, when rollups adopt the efficient strategy and offer lower fees, builders may face block profits lower than potential profits. Any feedback is welcome. 
 - *2024.10*: &nbsp;📌📌 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352). Any feedback is welcome.
 - *2024.06*: &nbsp;🎉🎉 Submitted a paper toward S&P 2025. In this paper, we identified two asymmetries among builders through the examination of builder bidding data, which led to different block valuations and bidding strategies during the MEV-Boost auction stage. By employing the concepts of expectational and robust fairness, we demonstrated that the asymmetry fosters a monopolistic tendency, exacerbating fairness erosion within the network. Furthermore, we also explored the implications of a monopolistic builder scenario, highlighting the negative effects of earnings losses of proposers and discrimination in block construction.
@@ -37,8 +39,8 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 # 📝 Publications
 (# represents the corresponding author of each paper.)
--	**Yue HUANG**, Shuzheng Wang, Yuming Huang and Jing TANG#. Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844. Submitted to WWW 25.
-- Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. Submitted to WWW 25.
+-	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Submitted to Sigmetrics 26.
+- Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 25.
 - Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
 
