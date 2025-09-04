@@ -30,8 +30,8 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 🔥 News
-- *2025.08*: &nbsp;📌📌 Submitted our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037) to USENIX Security.
-- *2025.07*: &nbsp;📌📌 Submitted our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892) to Sigmetrics 2026.
+- *2025.08*: &nbsp;📌📌 Submitted our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037) to USENIX Security 26.
+- *2025.07*: &nbsp;📌📌 Submitted our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892) to SIGMETRICS 2026.
 - *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted as Poster in WWW 2025.
 <!-- - *2024.10*: &nbsp;📌📌 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](https://arxiv.org/pdf/2411.03892). In this paper, We evaluate the strategies of builders and rollups after EIP-4844. We find that the efficiency of their strategies is like the two sides of the same coin. When the builders strategy is efficient, rollups may need to pay more fees. Oppositely, when rollups adopt the efficient strategy and offer lower fees, builders may face block profits lower than potential profits. Any feedback is welcome.  -->
 - *2024.10*: &nbsp;📌📌 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352). Any feedback is welcome.
@@ -41,7 +41,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 # 📝 Publications
 (# represents the corresponding author of each paper.)
 - Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. Submitted to USENIX Security 26.
--	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Submitted to Sigmetrics 26.
+-	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Submitted to SIGMETRICS 26.
 - Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 25.
 - Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
