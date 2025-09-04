@@ -21,7 +21,7 @@ My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. 
 <!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
 I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and MEV Strategies. My research focus on DeFi measurements and security issues. And currently, I am trying to use LLM as a service for my research in blockchain.
 
-I would graduate in 2025 August. I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
+I would graduate in 2025 October. I am looking for a **<font color=red>potential Ph.D position</font>** related to the above topics. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com or yhuang797 AT connect.hkust-gz.edu.cn.
 
 > If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese). 
 
@@ -30,7 +30,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 🔥 News
-- *2025.07*: &nbsp;📌📌 Submitted our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037) to USENIX Security.
+- *2025.08*: &nbsp;📌📌 Submitted our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037) to USENIX Security.
 - *2025.07*: &nbsp;📌📌 Submitted our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892) to Sigmetrics 2026.
 - *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted as Poster in WWW 2025.
 <!-- - *2024.10*: &nbsp;📌📌 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](https://arxiv.org/pdf/2411.03892). In this paper, We evaluate the strategies of builders and rollups after EIP-4844. We find that the efficiency of their strategies is like the two sides of the same coin. When the builders strategy is efficient, rollups may need to pay more fees. Oppositely, when rollups adopt the efficient strategy and offer lower fees, builders may face block profits lower than potential profits. Any feedback is welcome.  -->
