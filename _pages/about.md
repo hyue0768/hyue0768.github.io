@@ -31,7 +31,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 # 🔥 News
 - *2025.08*: &nbsp;📌📌 Released our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037). Any feedback is welcome.
-- *2025.07*: &nbsp;📌📌 Released our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892) . Any feedback is welcome.
+- *2025.07*: &nbsp;📌📌 Released our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892). Any feedback is welcome.
 - *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted by WWW 2025.
 <!-- - *2024.10*: &nbsp;📌📌 Released our paper [Two Sides of the Same Coin: Large-scale Measurements of Builder and Rollup after EIP-4844](https://arxiv.org/pdf/2411.03892). In this paper, We evaluate the strategies of builders and rollups after EIP-4844. We find that the efficiency of their strategies is like the two sides of the same coin. When the builders strategy is efficient, rollups may need to pay more fees. Oppositely, when rollups adopt the efficient strategy and offer lower fees, builders may face block profits lower than potential profits. Any feedback is welcome.  -->
 - *2024.10*: &nbsp;📌📌 Released our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://arxiv.org/pdf/2410.12352). Any feedback is welcome.
