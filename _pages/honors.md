@@ -1,3 +1,9 @@
+---
+title: "Honors"
+permalink: /honors/
+layout: archive
+---
+
 - *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.05* First-class Scholarship (1/216).
