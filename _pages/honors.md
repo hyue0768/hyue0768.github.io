@@ -1,0 +1,11 @@
+- *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
+- *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
+- *2023.05* First-class Scholarship (1/216).
+- *2022.10* **<font color=red>National Scholarship</font>**
+ (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
+- *2022.10* Special-class Scholarship (top 0.05%, 10/20224).
+- *2021.06* First Prize of China College Student Computing Contest.
+- *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
+- *2021.05* Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.
+- *2021.04* Third Prize of the 16th “Challenge Cup” Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.
+- *2021.09*, *2020.09* Twice Merit Students, Twice **National** Inspiration Scholarships
