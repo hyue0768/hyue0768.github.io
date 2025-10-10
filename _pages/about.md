@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now joining Prof Duan Huayi' team as a Research Assistant. In October 2025, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
+My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now joining [Prof Duan Huayi' team](https://tint-research.com/index) as a Research Assistant. In October 2025, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
 <!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
-I am deeply interested in the Blockchain Protocols, Decentralized Finance (DeFi) Ecosystem, Smart Contracts, and Large Language Model.
+I am deeply interested in the Blockchain Security and Large Language Model.
 
-I would graduate in 2025 October. I am looking for a **<font color=red>potential Ph.D position</font>** related to blockchain and security. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com.
+<!-- I would graduate in 2025 October. I am looking for a **<font color=red>potential Ph.D position</font>** related to blockchain and security. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com. -->
 
 > If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese). 
 
@@ -37,7 +37,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 # 📝 Publications
 (# represents the corresponding author of each paper.)
 - Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. Submitted to USENIX Security 26.
--	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Submitted to SIGMETRICS 26.
+-	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Submitted to WWW 26.
 - Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 25.
 - Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
@@ -66,6 +66,6 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
 # 📜 Services
-- Review for ACM Web Conference (WWW): 2024, 2025
+- Reviewer for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
 - Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
