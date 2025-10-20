@@ -195,22 +195,41 @@ document.getElementById('genBtn').addEventListener('click',()=>{
   const R=document.getElementById('right').value;
   const out=document.getElementById('out');
   const wrap=document.getElementById('tables');
-  wrap.style.display='none';wrap.innerHTML='';
+  wrap.style.display='none';
+  wrap.innerHTML='';
+
   if(!t){out.innerHTML='<span style="color:#c00">请输入时间。</span>';return;}
   const idx=clampToSlot(t);
   if(idx===null){out.innerHTML='<span style="color:#c00">时间需在10:00~20:00之间。</span>';return;}
   if(L===R){out.innerHTML='<span style="color:#c00">左右角色不能相同。</span>';return;}
+
   const remain=ALL.filter(r=>r!==L&&r!==R);
   const slots=buildSlots();
   const cyc1=makeCycle(idx,L,R,[remain[0],remain[1]]);
   const cyc2=makeCycle(idx,L,R,[remain[1],remain[0]]);
+
   const table1=renderTable(cyc1,slots,idx);
   const table2=renderTable(cyc2,slots,idx);
+
   const box1=document.createElement('div');
   const box2=document.createElement('div');
-  box1.append(table1);box2.append(table2);
-  wrap.append(box1);wrap.append(box2);
+  box1.append(table1);
+
+  // 添加自定义标题
+  const titleDiv = document.createElement('div');
+  titleDiv.style.textAlign = 'center';
+  titleDiv.style.fontSize = '14px';
+  titleDiv.style.fontWeight = '600';
+  titleDiv.style.margin = '8px 0';
+  titleDiv.innerText = '这里写你的标题'; // <-- 自定义标题内容
+
+  box2.append(titleDiv); // 在第二个表格前插入标题
+  box2.append(table2);
+
+  wrap.append(box1);
+  wrap.append(box2);
   wrap.style.display='grid';
+
   out.innerHTML=`当前时间 <b>${t}</b> 位于 <b>${slots[idx].start}–${slots[idx].end}</b> 段，仅显示该段及之后的推算。`;
 });
 </script>
