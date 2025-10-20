@@ -22,7 +22,7 @@ body{
 }
 .wrap{
   width:100%;
-  max-width:480px; /* 移动端最佳宽度 */
+  max-width:480px;
 }
 h1{
   margin:0 0 14px;
@@ -128,7 +128,7 @@ tbody td{
             <option>小八</option><option>吉伊</option><option>飞鼠</option><option>乌萨奇</option>
           </select>
         </div>
-        <div class="small">提示：接下来两个角色顺序未知，下面会有两个表格。请自己选择重合时间。</div>
+        <div class="small"  style="background:#fff3cd; color:#856404; padding:8px 12px; border-radius:8px; border:1px solid #ffeeba; font-weight:600;">提示：接下来两个角色顺序未知，下面会有两个表格。请自己选择重合时间。</div>
       </div>
     </div>
 
@@ -141,7 +141,6 @@ tbody td{
 </div>
 
 <script>
-// JS 代码保持原样
 const ALL = ["小八","吉伊","飞鼠","乌萨奇"];
 function mod(n,m){return((n%m)+m)%m;}
 function clampToSlot(timeStr){
@@ -207,11 +206,26 @@ document.getElementById('genBtn').addEventListener('click',()=>{
   const cyc2=makeCycle(idx,L,R,[remain[1],remain[0]]);
   const table1=renderTable(cyc1,slots,idx);
   const table2=renderTable(cyc2,slots,idx);
+
   const box1=document.createElement('div');
   const box2=document.createElement('div');
-  box1.append(table1);box2.append(table2);
-  wrap.append(box1);wrap.append(box2);
+
+  // 添加标题，显示剩余角色顺序
+  const title1 = document.createElement('h3');
+  title1.textContent = `剩余角色顺序：${remain[0]} → ${remain[1]}`;
+  title1.style.textAlign = "center";
+  title1.style.marginBottom = "6px";
+
+  const title2 = document.createElement('h3');
+  title2.textContent = `剩余角色顺序：${remain[1]} → ${remain[0]}`;
+  title2.style.textAlign = "center";
+  title2.style.marginBottom = "6px";
+
+  box1.append(title1, table1);
+  box2.append(title2, table2);
+  wrap.append(box1, box2);
   wrap.style.display='grid';
+
   out.innerHTML=`当前时间 <b>${t}</b> 位于 <b>${slots[idx].start}–${slots[idx].end}</b> 段，仅显示该段及之后的推算。`;
 });
 </script>
