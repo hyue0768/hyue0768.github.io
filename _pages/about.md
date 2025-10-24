@@ -58,7 +58,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 📖 Educations
-- *2026.01 - *, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
+- *2026.01 - to date*, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2023.09 - 2025.10*, MPhil in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China. 
 
