@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now joining [Prof Duan Huayi' team](https://tint-research.com/index) as a Research Assistant. In October 2025, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
+My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now working as a Research Assistant supervised by [Prof Duan Huayi](https://tint-research.com/index) and will switch to PhD student in Jan. 2026. In October 2025, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
 <!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
 I am deeply interested in the Blockchain Security and Large Language Model.
 
 <!-- I would graduate in 2025 October. I am looking for a **<font color=red>potential Ph.D position</font>** related to blockchain and security. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com. -->
 
-> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese). 
+> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese).
 
 
-I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding DeFi and Blockchain. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)(575 🌟). 
+I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding Blockchain and Crypto. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers). 
 
 
 # 🔥 News
@@ -43,6 +43,7 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 🎖 Honors and Awards
+- *2026.01* PostGraduate Scholarship (15,000 CNY per Month).
 - *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
 - *2023.05* First-class Scholarship (1/216).
@@ -57,11 +58,13 @@ I have maintained a [github repo](https://github.com/hyue0768/paper_list), colle
 
 
 # 📖 Educations
+- *2026.01 - *, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2023.09 - 2025.10*, MPhil in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China. 
 
 
 # 💻 Experiences
+- *2025.09 - 2026.01*, Research Assistant at HKUST (GZ), Guangzhou, China.
 - *2022.11 - 2023.08*, Research Assistant at HKUST (GZ), Guangzhou, China.
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
