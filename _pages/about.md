@@ -19,15 +19,9 @@ redirect_from:
 
 My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now a PhD student supervised by [Prof Duan Huayi](https://tint-research.com/index). In October 2025, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang). 
 <!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
-I am deeply interested in the Blockchain Security and Large Language Model.
-
-<!-- I would graduate in 2025 October. I am looking for a **<font color=red>potential Ph.D position</font>** related to blockchain and security. If you are interested in my experiences, please feel free to reach out through hhhhhy499 AT gmail.com. -->
+I am deeply interested in the Blockchain Security, LLM and Network Security.
 
 > If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟 in Chinese).
-
-
-I have maintained a [github repo](https://github.com/hyue0768/paper_list), collecting paper regarding Blockchain and Crypto. Also, I contributed some PRs(Top 3 contributor) towards a similar [repo](https://github.com/hzysvilla/Academic_Smart_Contract_Papers). 
-
 
 # 🔥 News
 - *2025.08*: &nbsp;📌📌 Released our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037). Any feedback is welcome.
