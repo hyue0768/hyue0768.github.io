@@ -70,4 +70,4 @@ My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.c
 - Student Volunteer for VLDB 2024
 - Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
 
-<p id="fn-hkust"><sup>[1]</sup> I finished my Mphil study in Guangzhou campus, instead of Clear Water Way campus.<a href="#fnref-hkust">↩</a></p>
+<p id="fn-hkust" style="font-size: 10px;"><sup>[1]</sup> I finished my Mphil study in Guangzhou campus, instead of Clear Water Way campus.<a href="#fnref-hkust">↩</a></p>
