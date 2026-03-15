@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG, I am now a PhD student of [TINT](https://tint-research.com/index) supervised by [Prof Duan Huayi](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574). Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang) in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
+<p style="font-size: 1.15em;">
+My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.com/index">TINT</a> supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof Duan Huayi</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
+</p>
 
 > If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out.
 
