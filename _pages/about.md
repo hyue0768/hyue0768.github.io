@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="font-size: 22px;">
-My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.com/index">TINT</a> supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof Duan Huayi</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
+My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.com/index">TINT</a> supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof Duan Huayi</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
 </p>
 
 > If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out.
@@ -69,3 +69,5 @@ My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.c
 - Reviewer for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
 - Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
+
+<p id="fn-hkust"><sup>[1]</sup> I finished my Mphil study in Guangzhou campus, instead of Clear Water Way campus.<a href="#fnref-hkust">↩</a></p>
