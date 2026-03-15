@@ -17,24 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p style="font-size: 20px;">
-My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.com/index">TINT</a> supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof Duan Huayi</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
-</p>
+My name is Yue HUANG. I am currently a PhD student at <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
-> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out.
+<div class="notice--info" markdown="1">
+**Research Interests:** Blockchain Security, Agent Security, and Internet Security.  
+If you are interested in collaboration or potential research opportunities, feel free to reach out.
+</div>
 
 # 🔥 News
 - *2025.08*: &nbsp;📌📌 Released our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037). Any feedback is welcome.
 - *2025.07*: &nbsp;📌📌 Released our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892). Any feedback is welcome.
-- *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted by WWW 2025.
+- *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) was accepted by WWW 2025.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 (# represents the corresponding author of each paper.)
-- Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. Arix.
--	**Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. Arxiv.
-- Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 25.
-- Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
+1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. arXiv.
+2. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. arXiv.
+3. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 2025.
+4. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
 
 <span class='anchor' id='honors'></span>
@@ -54,9 +55,9 @@ My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.c
 
 
 # 📖 Educations
-- *2026.01 - to date*, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
-- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou). 
-- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China. 
+- *2026.01 - present*, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
+- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China.
 
 
 # 💻 Experiences
@@ -68,6 +69,6 @@ My name is Yue HUANG, I am now a PhD student of <a href="https://tint-research.c
 # 📜 Services
 - Reviewer for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
-- Teaching Assistant of HKUST(GZ) DSAA 5020 Foundation of Data Science
+- Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science
 
-<p id="fn-hkust" style="font-size: 10px;"><sup>[1]</sup> I finished my Mphil study in Guangzhou campus, instead of Clear Water Way campus.<a href="#fnref-hkust">↩</a></p>
+<p id="fn-hkust" style="font-size: 10px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
