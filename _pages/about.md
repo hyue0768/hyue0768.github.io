@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG, my MBTI is INFJ-T, with 92% Introversion and 94% Judging. I am now a PhD student of [TINT](https://tint-research.com/index) supervised by [Prof Duan Huayi](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574). Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang) in October, 2025. 
-<!-- Before pursuing the Mphil degree, I earned a B.Eng degree in Computer Science and Technology from Zhongkai University of Agriculture and Engineering with the mentorship of Prof. Shuangyin Liu. -->
-I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
+My name is Yue HUANG, I am now a PhD student of [TINT](https://tint-research.com/index) supervised by [Prof Duan Huayi](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574). Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST) under the guidance of [Prof. Jing TANG](https://sites.google.com/view/jtang) in October, 2025. I am deeply interested in the Blockchain Security, Agent Security and Internet Security.
 
-> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out (带带弟弟).
+> If you’re interested in collaborating or exploring potential research opportunities, please don’t hesitate to reach out.
 
 # 🔥 News
 - *2025.08*: &nbsp;📌📌 Released our paper [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](https://arxiv.org/abs/2509.03037). Any feedback is welcome.
