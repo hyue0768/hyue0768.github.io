@@ -20,7 +20,7 @@ redirect_from:
 My name is Yue HUANG. I am currently a PhD student at <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
 <div class="notice--info" markdown="1">
-**Research Interests:** Agent and Internet Security, Blockchain Security Formal Method.  
+**Research Interests:** Agent and Internet Security, Blockchain Security and Formal Method.  
 If you are interested in collaboration or potential research opportunities, feel free to reach out.
 </div>
 
