@@ -20,7 +20,7 @@ redirect_from:
 My name is Yue HUANG. I am currently a PhD student at <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
 <div class="notice--info" markdown="1">
-**Research Interests:** Blockchain Security, Agent Security, and Internet Security.  
+**Research Interests:** Agent and Internet Security, Blockchain Security Formal Method.  
 If you are interested in collaboration or potential research opportunities, feel free to reach out.
 </div>
 
@@ -40,18 +40,48 @@ If you are interested in collaboration or potential research opportunities, feel
 
 <span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
-- *2026.01* PostGraduate Scholarship (15,000 CNY per Month).
-- *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
-- *2023.09* PostGraduate Scholarship (10,000 CNY per Month).
-- *2023.05* First-class Scholarship (1/216).
-- *2022.10* **<font color=red>National Scholarship</font>**
- (Ranking in top 0.2%, Awarded from the Ministry of Education of China). 
-- *2022.10* Special-class Scholarship (top 0.05%, 10/20224).
-- *2021.06* First Prize of China College Student Computing Contest.
-- *2021.06* First Prize of “Huazi Cup” Guangdong University Students' Computer Works Competition.
-- *2021.05* Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.
-- *2021.04* Third Prize of the 16th “Challenge Cup” Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.
-- *2021.09*, *2020.09* Twice Merit Students, Twice **National** Inspiration Scholarships
+<ul id="honors-list">
+  <li><em>2026.01</em> PostGraduate Scholarship (15,000 CNY per Month).</li>
+  <li><em>2024.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
+  <li><em>2023.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
+  <li><em>2023.05</em> First-class Scholarship (1/216).</li>
+  <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (ranked in the top 0.2%, awarded by the Ministry of Education of China).</li>
+  <li><em>2022.10</em> Special-class Scholarship (top 0.05%, 10/20224).</li>
+  <li><em>2021.06</em> First Prize of China College Student Computing Contest.</li>
+  <li><em>2021.06</em> First Prize of "Huazi Cup" Guangdong University Students' Computer Works Competition.</li>
+  <li><em>2021.05</em> Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.</li>
+  <li><em>2021.04</em> Third Prize of the 16th "Challenge Cup" Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.</li>
+  <li><em>2021.09</em>, <em>2020.09</em> Twice Merit Students, Twice <strong>National</strong> Inspiration Scholarships.</li>
+</ul>
+
+<button id="honors-toggle" type="button" class="btn btn--small" style="display: none; margin-top: 0.4em;">Show more</button>
+
+<script>
+  (function () {
+    var maxVisible = 5;
+    var list = document.getElementById("honors-list");
+    var toggle = document.getElementById("honors-toggle");
+    if (!list || !toggle) return;
+
+    var items = list.querySelectorAll("li");
+    if (items.length <= maxVisible) return;
+
+    var expanded = false;
+    function render() {
+      for (var i = 0; i < items.length; i++) {
+        items[i].style.display = expanded || i < maxVisible ? "list-item" : "none";
+      }
+      toggle.textContent = expanded ? "Show less" : "Show more";
+    }
+
+    toggle.style.display = "inline-block";
+    render();
+    toggle.addEventListener("click", function () {
+      expanded = !expanded;
+      render();
+    });
+  })();
+</script>
 
 
 # 📖 Educations
@@ -71,4 +101,4 @@ If you are interested in collaboration or potential research opportunities, feel
 - Student Volunteer for VLDB 2024
 - Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science
 
-<p id="fn-hkust" style="font-size: 10px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
+<p id="fn-hkust" style="font-size: 13px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
