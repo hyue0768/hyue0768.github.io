@@ -28,6 +28,7 @@ I am deeply interested in the Blockchain Security, Agent Security and Internet S
 - *2025.07*: &nbsp;📌📌 Released our paper [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market](https://arxiv.org/pdf/2411.03892). Any feedback is welcome.
 - *2025.02*: &nbsp;📌📌 Our paper [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) is accepted by WWW 2025.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 (# represents the corresponding author of each paper.)
 - Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. Arix.
@@ -36,6 +37,7 @@ I am deeply interested in the Blockchain Security, Agent Security and Internet S
 - Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
 
+<span class='anchor' id='honors'></span>
 # 🎖 Honors and Awards
 - *2026.01* PostGraduate Scholarship (15,000 CNY per Month).
 - *2024.09* PostGraduate Scholarship (10,000 CNY per Month).
@@ -62,6 +64,7 @@ I am deeply interested in the Blockchain Security, Agent Security and Internet S
 - *2022.11 - 2023.08*, Research Assistant at HKUST (GZ), Guangzhou, China.
 - *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
 
+<span class='anchor' id='services'></span>
 # 📜 Services
 - Reviewer for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
