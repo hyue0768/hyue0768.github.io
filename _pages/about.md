@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG. I am currently a PhD student at <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
+My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a>. Prior to that, I earned my MPhil degree from The Hong Kong University of Science and Technology (HKUST)<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
 <div class="notice--info" markdown="1">
-**Research Interests:** Agent and Internet Security, Blockchain Security and Formal Method.  
+**Research Interests:**
+- Agent and Internet Security
+- Blockchain Security
+- Formal Method
+
 If you are interested in collaboration or potential research opportunities, feel free to reach out.
 </div>
 
@@ -54,7 +58,45 @@ If you are interested in collaboration or potential research opportunities, feel
   <li><em>2021.09</em>, <em>2020.09</em> Twice Merit Students, Twice <strong>National</strong> Inspiration Scholarships.</li>
 </ul>
 
-<button id="honors-toggle" type="button" class="btn btn--small" style="display: none; margin-top: 0.4em;">Show more</button>
+<style>
+  #honors-toggle {
+    display: none;
+    margin-top: 0.6em;
+    padding: 0.38em 0.82em;
+    border: 1px solid #d0d7de;
+    border-radius: 999px;
+    background: #f7f9fc;
+    color: #374151;
+    font-size: 0.88em;
+    font-weight: 600;
+    line-height: 1.2;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  #honors-toggle:hover {
+    background: #eef3ff;
+    border-color: #b7c5e3;
+    color: #1f3d7a;
+  }
+
+  #honors-toggle .toggle-icon {
+    display: inline-block;
+    margin-right: 0.45em;
+    font-family: monospace;
+    transform-origin: center;
+    transition: transform 0.2s ease;
+  }
+
+  #honors-toggle.expanded .toggle-icon {
+    transform: rotate(90deg);
+  }
+</style>
+
+<button id="honors-toggle" type="button">
+  <span class="toggle-icon" aria-hidden="true">&gt;</span>
+  <span class="toggle-label">Show more</span>
+</button>
 
 <script>
   (function () {
@@ -67,11 +109,15 @@ If you are interested in collaboration or potential research opportunities, feel
     if (items.length <= maxVisible) return;
 
     var expanded = false;
+    var label = toggle.querySelector(".toggle-label");
     function render() {
       for (var i = 0; i < items.length; i++) {
         items[i].style.display = expanded || i < maxVisible ? "list-item" : "none";
       }
-      toggle.textContent = expanded ? "Show less" : "Show more";
+      if (label) {
+        label.textContent = expanded ? "Show less" : "Show more";
+      }
+      toggle.classList.toggle("expanded", expanded);
     }
 
     toggle.style.display = "inline-block";
