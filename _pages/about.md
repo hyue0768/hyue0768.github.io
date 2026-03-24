@@ -25,7 +25,7 @@ My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-rese
 - Blockchain Security
 - Formal Method
 
-If you are interested in collaboration or potential research opportunities, feel free to reach out.
+If you are interested in collaboration or potential research opportunities, feel free to reach out!
 </div>
 
 # 🔥 News
@@ -49,8 +49,8 @@ If you are interested in collaboration or potential research opportunities, feel
   <li><em>2024.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
   <li><em>2023.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
   <li><em>2023.05</em> First-class Scholarship (1/216).</li>
-  <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (ranked in the top 0.2%, awarded by the Ministry of Education of China).</li>
-  <li><em>2022.10</em> Special-class Scholarship (top 0.05%, 10/20224).</li>
+  <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (Top 0.2%, Awarded by the <a href="http://en.moe.gov.cn/">Ministry of Education of China</a>).</li>
+  <li><em>2022.10</em> Special-class Scholarship (Top 0.05%, 10/20224).</li>
   <li><em>2021.06</em> First Prize of China College Student Computing Contest.</li>
   <li><em>2021.06</em> First Prize of "Huazi Cup" Guangdong University Students' Computer Works Competition.</li>
   <li><em>2021.05</em> Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.</li>
