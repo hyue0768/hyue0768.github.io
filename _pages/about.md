@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a> at the Hong Kong University of Science and Technology (GZ). Prior to that, I earned my MPhil degree from HKUST<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
+My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a> at <a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a>. Prior to that, I earned my MPhil degree from HKUST<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
 <div class="notice--info" markdown="1">
 **Research Interests:**
