@@ -52,7 +52,7 @@ If you are interested in collaboration or potential research opportunities, feel
   <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (Top 0.2%, Awarded by the <a href="http://en.moe.gov.cn/">Ministry of Education of China</a>).</li>
   <li><em>2022.10</em> Special-class Scholarship (Top 0.05%, 10/20224).</li>
   <li><em>2021.06</em> First Prize of China College Student Computing Contest.</li>
-  <li><em>2021.06</em> First Prize of "Huazi Cup" Guangdong University Students' Computer Works Competition.</li>
+  <li><em>2021.06</em> First Prize of "Huazi Cup" Guangdong University Students' Computer Competition.</li>
   <li><em>2021.05</em> Third Prize in the Guangdong-Hong Kong-Macao Greater Bay Area IT System Development Competition.</li>
   <li><em>2021.04</em> Third Prize of the 16th "Challenge Cup" Guangdong University Students' Extra-curricular Academic Science and Technology Works Competition.</li>
   <li><em>2021.09</em>, <em>2020.09</em> Twice Merit Students, Twice <strong>National</strong> Inspiration Scholarships.</li>
