@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-research.com/index">TINT</a>, supervised by <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=574">Prof. Huayi Duan</a> at <a href="https://www.hkust-gz.edu.cn/">HKUST(GZ)</a>. Prior to that, I earned my MPhil degree from HKUST<sup id="fnref-hkust"><a href="#fn-hkust">[1]</a></sup> under the guidance of <a href="https://sites.google.com/view/jtang">Prof. Jing TANG</a> in October 2025.
 
-<div class="notice--info" markdown="1">
+<div class="notice--info profile-highlight" markdown="1">
 **Research Interests:**
 - Agent and Internet Security
 - Blockchain Security
@@ -49,7 +49,7 @@ If you are interested in collaboration or potential research opportunities, feel
   <li><em>2024.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
   <li><em>2023.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
   <li><em>2023.05</em> First-class Scholarship (1/216).</li>
-  <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (Top 0.2%, Awarded by the <a href="http://en.moe.gov.cn/">Ministry of Education of China</a>).</li>
+  <li><em>2022.10</em> <strong><span class="award-accent">National Scholarship</span></strong> (Top 0.2%, Awarded by the <a href="http://en.moe.gov.cn/">Ministry of Education of China</a>).</li>
   <li><em>2022.10</em> Special-class Scholarship (Top 0.05%, 10/20224).</li>
   <li><em>2021.06</em> First Prize of China College Student Computing Contest.</li>
   <li><em>2021.06</em> First Prize of "Huazi Cup" Guangdong University Students' Computer Competition.</li>
@@ -59,14 +59,28 @@ If you are interested in collaboration or potential research opportunities, feel
 </ul>
 
 <style>
+  .profile-highlight {
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(165, 61, 109, 0.08);
+  }
+
+  .award-accent {
+    color: #b23d70;
+    font-weight: 700;
+  }
+
+  #honors-list li {
+    margin-bottom: 0.26em;
+  }
+
   #honors-toggle {
     display: none;
     margin-top: 0.6em;
     padding: 0.38em 0.82em;
-    border: 1px solid #d0d7de;
+    border: 1px solid #e5c1d2;
     border-radius: 999px;
-    background: #f7f9fc;
-    color: #374151;
+    background: #fff5fa;
+    color: #7a3558;
     font-size: 0.88em;
     font-weight: 600;
     line-height: 1.2;
@@ -75,9 +89,9 @@ If you are interested in collaboration or potential research opportunities, feel
   }
 
   #honors-toggle:hover {
-    background: #eef3ff;
-    border-color: #b7c5e3;
-    color: #1f3d7a;
+    background: #fde8f1;
+    border-color: #d98daf;
+    color: #5e2744;
   }
 
   #honors-toggle .toggle-icon {

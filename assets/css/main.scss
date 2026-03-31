@@ -104,6 +104,59 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
+    background-color: #a53d6d;
     font-size: .8em;
+}
+
+/* Academic rose accent: subtle, readable, and consistent */
+body {
+    background: linear-gradient(180deg, #fff8fb 0%, #ffffff 220px) no-repeat;
+}
+
+a {
+    text-decoration-color: #e8b2c7;
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.12em;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+    color: #7c3157;
+    letter-spacing: 0.01em;
+}
+
+.page__content h2::after,
+.page__content h3::after {
+    content: "";
+    display: block;
+    width: 3.2rem;
+    height: 0.2rem;
+    margin-top: 0.4rem;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #f3bfd4 0%, #e18db2 100%);
+}
+
+.author__avatar img {
+    box-shadow: 0 12px 28px rgba(165, 61, 109, 0.18);
+    border: 3px solid #fff1f7;
+}
+
+.author__content {
+    border: 1px solid #f2dce6;
+    border-radius: 12px;
+    background: #fff8fb;
+    padding: 0.9rem 0.8rem;
+}
+
+.notice--info {
+    border-left: 4px solid #d778a2;
+    background: linear-gradient(180deg, #fff4f9 0%, #fff9fc 100%);
+    color: #5f3850;
+}
+
+.btn,
+button,
+input[type="submit"] {
+    border-radius: 999px;
 }
