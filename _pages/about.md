@@ -132,15 +132,15 @@ If you are interested in collaboration or potential research opportunities, feel
 
 
 # 📖 Educations
-- *2026.01 - present*, PhD in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
-- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
+- *2026.01 - present*, PhD in Data Science and Analytics, HKUST (GZ).
+- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, HKUST (GZ).
 - *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou.
 
 
 # 💻 Experiences
-- *2025.09 - 2026.01*, Research Assistant at HKUST (GZ), Guangzhou, China.
-- *2022.11 - 2023.08*, Research Assistant at HKUST (GZ), Guangzhou, China.
-- *2019.12 - 2022.10*, Front-end & Back-end Intern at Guangdong Smart Agriculture Engineering Technology Research Center, Guangzhou, China.
+- *2025.09 - 2026.01*, Research Assistant at HKUST (GZ).
+- *2022.11 - 2023.08*, Research Assistant at HKUST (GZ).
+- *2019.12 - 2022.10*, Full Stack Development Intern at Guangdong Smart Agriculture Engineering Technology Research Center.
 
 <span class='anchor' id='services'></span>
 # 📜 Services
