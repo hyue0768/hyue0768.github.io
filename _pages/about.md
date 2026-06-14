@@ -36,10 +36,11 @@ If you are interested in collaboration or potential research opportunities, feel
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 (# represents the corresponding author of each paper.)
+<!-- Use `1.` for every publication; Markdown will number the rendered list automatically. -->
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. arXiv.
-2. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. arXiv.
-3. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 2025.
-4. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
+1. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. arXiv.
+1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 2025.
+1. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
 
 
 <span class='anchor' id='honors'></span>
