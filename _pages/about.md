@@ -133,9 +133,9 @@ If you are interested in collaboration or potential research opportunities, feel
 
 
 # 📖 Educations
-- *2026.01 - present*, PhD in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
-- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, Information Hub, The Hong Kong University of Science and Technology (Guangzhou).
-- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China.
+- *2026.01 - present*, PhD in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
+- *2023.09 - 2025.10*, MPhil in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology (now School of Artificial Intelligence), Zhongkai University of Agriculture and Engineering, Guangzhou, China.
 
 
 # 💻 Experiences
