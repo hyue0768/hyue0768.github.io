@@ -36,7 +36,6 @@ If you are interested in collaboration or potential research opportunities, feel
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 (# represents the corresponding author of each paper.)
-<!-- Use `1.` for every publication; Markdown will number the rendered list automatically. -->
 1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to ISOC NDSS 2027.
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. arXiv.
 1. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. arXiv.
