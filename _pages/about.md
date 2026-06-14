@@ -37,10 +37,11 @@ If you are interested in collaboration or potential research opportunities, feel
 # 📝 Publications
 (# represents the corresponding author of each paper.)
 <!-- Use `1.` for every publication; Markdown will number the rendered list automatically. -->
+1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to ISOC NDSS 2027.
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG#. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. arXiv.
 1. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG#. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. arXiv.
-1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. WWW 2025.
-1. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing 14 (6), 7255-7264, 2021.
+1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG#. Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market. ACM WWW 2025.
+1. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu#. Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network. Journal of Ambient Intelligence and Humanized Computing, 7255-7264, 2021.
 
 
 <span class='anchor' id='honors'></span>
@@ -146,6 +147,7 @@ If you are interested in collaboration or potential research opportunities, feel
 # 📜 Services
 - Reviewer for ACM Web Conference (WWW): 2024, 2025
 - Student Volunteer for VLDB 2024
-- Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science
+- Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring
+- Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026 
 
 <p id="fn-hkust" style="font-size: 13px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
