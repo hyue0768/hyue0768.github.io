@@ -134,7 +134,7 @@ If you are interested in collaboration or potential research opportunities, feel
 # 📖 Educations
 - *2026.01 - present*, PhD in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
 - *2023.09 - 2025.10*, MPhil in Data Science and Analytics, The Hong Kong University of Science and Technology (Guangzhou).
-- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, School of Information Science and Technology (now School of Artificial Intelligence), Zhongkai University of Agriculture and Engineering, Guangzhou, China.
+- *2019.09 - 2023.06*, B.Eng. in Computer Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou.
 
 
 # 💻 Experiences
@@ -144,9 +144,9 @@ If you are interested in collaboration or potential research opportunities, feel
 
 <span class='anchor' id='services'></span>
 # 📜 Services
-- Reviewer for ACM Web Conference (WWW): 2024, 2025
-- Student Volunteer for VLDB 2024
-- Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring
-- Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026 
+- Reviewer for ACM Web Conference (WWW): 2024, 2025,
+- Student Volunteer for VLDB 2024,
+- Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring,
+- Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026.
 
 <p id="fn-hkust" style="font-size: 13px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
