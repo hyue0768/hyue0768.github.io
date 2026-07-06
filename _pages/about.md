@@ -144,6 +144,7 @@ If you are interested in collaboration or potential research opportunities, feel
 
 <span class='anchor' id='services'></span>
 # 📜 Services
+- Program Commitee (PC): WISE 2026,
 - Reviewer for ACM Web Conference (WWW): 2024, 2025,
 - Student Volunteer for VLDB 2024,
 - Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring,
