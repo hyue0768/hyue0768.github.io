@@ -36,6 +36,8 @@ If you are interested in collaboration or potential research opportunities, feel
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 <!-- (# represents the corresponding author of each paper.) -->
+1. Yanlin Yu, **Yue HUANG**, Shiwen Liu, Huayi Duan. Who Can Escape? Silent Denial-of-Wallet on Tool-Using LLM Agents. Submitted to AAAI.
+1. Shiwen Liu, Yanlin Yu, **Yue HUANG**, Haoyang Hu, Huayi Duan. Q-Priv: Screening Leaky Retrieval for Contextual Privacy. Submitted to AAAI.
 1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to ISOC NDSS 2027.
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG. TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum. ArXiv preprint.
 1. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG. The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market. ArXiv preprint.
