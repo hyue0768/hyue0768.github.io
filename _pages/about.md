@@ -40,7 +40,7 @@ If you are interested in collaboration or potential research opportunities, feel
 1. Shiwen Liu, Yanlin Yu, **Yue HUANG**, Haoyang Hu, Huayi Duan. Q-Priv: Screening Leaky Retrieval for Contextual Privacy. Submitted to AAAI 2027.
 1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to ISOC NDSS 2027. -->
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG. [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum.](https://arxiv.org/abs/2509.03037) ArXiv preprint.
-1. **Yue HUANG**, Shuzheng Wang, Yuming Huang, Gareth Tyson, and Jing TANG. [The Price of Cheaper Data: Measuring the Strategic Inefficiencies in the Post-EIP-4844 Ethereum Market.](https://arxiv.org/pdf/2411.03892) ArXiv preprint.
+1. **Yue HUANG**, Shuzheng Wang, and Jing TANG. [Measuring Ethereum's Blob Market: Builders, Rollups, and Benchmarks.](https://arxiv.org/pdf/2411.03892) WISE 2026.
 1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG. [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market.](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) ACM WWW 2025.
 1. Jiande Huang, **Yue HUANG**, SG Hassan, Longqin Xu, and Shuangyin Liu. [Dissolved Oxygen Content Interval Prediction based on Auto Regression Recurrent Neural Network.](https://link.springer.com/article/10.1007/s12652-021-03579-x) Journal of Ambient Intelligence and Humanized Computing, 2021.
 
