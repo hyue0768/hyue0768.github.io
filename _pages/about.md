@@ -49,8 +49,7 @@ If you are interested in collaboration or potential research opportunities, feel
 # 🎖 Honors and Awards
 <ul id="honors-list">
   <li><em>2026.01</em> PostGraduate Scholarship (15,000 CNY per Month).</li>
-  <li><em>2024.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
-  <li><em>2023.09</em> PostGraduate Scholarship (10,000 CNY per Month).</li>
+  <li><em>2023.09</em> PostGraduate Scholarship (10,000 CNY per Month During Mphil Study).</li>
   <li><em>2023.05</em> First-class Scholarship (1/216).</li>
   <li><em>2022.10</em> <strong><font color="red">National Scholarship</font></strong> (Top 0.2%, Awarded by the <a href="http://en.moe.gov.cn/">Ministry of Education of China</a>).</li>
   <li><em>2022.10</em> Special-class Scholarship (Top 0.05%, 10/20224).</li>
