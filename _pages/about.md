@@ -38,7 +38,7 @@ If you are interested in collaboration or potential research opportunities, feel
 <!-- (# represents the corresponding author of each paper.) -->
 <!-- 1. Yanlin Yu, **Yue HUANG**, Shiwen Liu, Huayi Duan. Who Can Escape? Silent Denial-of-Wallet on Tool-Using LLM Agents. Submitted to AAAI 2027.
 1. Shiwen Liu, Yanlin Yu, **Yue HUANG**, Haoyang Hu, Huayi Duan. Q-Priv: Screening Leaky Retrieval for Contextual Privacy. Submitted to AAAI 2027.
-1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to ISOC NDSS 2027. -->
+1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to USENIX Security 2027. -->
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG. [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum.](https://arxiv.org/abs/2509.03037) ArXiv preprint.
 1. **Yue HUANG**, Shuzheng Wang, and Jing TANG. [Measuring Ethereum's Blob Market: Builders, Rollups, and Benchmarks.](https://arxiv.org/pdf/2411.03892) WISE 2026.
 1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG. [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market.](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) ACM WWW 2025.
@@ -149,6 +149,7 @@ If you are interested in collaboration or potential research opportunities, feel
 - Reviewer for ACM Web Conference (WWW): 2024, 2025,
 - Student Volunteer for VLDB 2024,
 - Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring,
-- Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026.
+- Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026,
+- Teaching Assistant of HKUST (GZ) DSAA 6101: 2026 Fall.
 
 <p id="fn-hkust" style="font-size: 13px;"><sup>[1]</sup> I completed my MPhil study at the Guangzhou campus, rather than the Clear Water Bay campus.<a href="#fnref-hkust">↩</a></p>
