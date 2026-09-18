@@ -25,7 +25,7 @@ My name is Yue HUANG. I am currently a PhD student of <a href="https://tint-rese
 - Blockchain Security
 - Formal Method
 
-The overarching goal of my research is to make the Internet and intelligent agents more reliable, resilient and secure against evolving adversarial challenges. If you are interested in collaboration or potential research opportunities, feel free to reach out via `yue.huang@connect.hkust-gz.edu.cn`.
+The overarching goal of my research is to make the Internet and intelligent agents more reliable, resilient and secure against evolving adversarial challenges. If you are interested in collaboration or potential research opportunities, feel free to reach out.
 </div>
 
 # 🔥 News
