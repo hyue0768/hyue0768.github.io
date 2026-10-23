@@ -144,8 +144,8 @@ The overarching goal of my research is to make the Internet and intelligent agen
 # 📜 Services
 - Reviewer for ACM Web Conference (WWW): 2024, 2025, 2027,
 - Sub-reviewer for USENIX Security (USENIX SEC): 2027,
-- Student Volunteer for VLDB 2024,
 - Program Commitee (PC): Springer WISE 2026,
+- Student Volunteer for VLDB 2024,
 - Teaching Assistant of HKUST (GZ) DSAA 5020 Foundations of Data Science: 2024 Spring,
 - Teaching Assistant of HKUST (GZ) Red Bird Challenge Camp: 2024, 2026,
 - Teaching Assistant of HKUST (GZ) DSAA 6101: 2026 Fall.
