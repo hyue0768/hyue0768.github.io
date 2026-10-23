@@ -36,9 +36,6 @@ The overarching goal of my research is to make the Internet and intelligent agen
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 <!-- (# represents the corresponding author of each paper.) -->
-<!-- 1. Yanlin Yu, **Yue HUANG**, Shiwen Liu, Huayi Duan. Who Can Escape? Silent Denial-of-Wallet on Tool-Using LLM Agents. Submitted to AAAI 2027.
-1. Shiwen Liu, Yanlin Yu, **Yue HUANG**, Haoyang Hu, Huayi Duan. Q-Priv: Screening Leaky Retrieval for Contextual Privacy. Submitted to AAAI 2027.
-1. **Yue HUANG**, Yanlin Yu, Huayi Duan. To Facilitate or Not: Formal Analysis and Extension of x402 Protocol. Submitted to USENIX Security 2027. -->
 1. Shuzheng Wang, **Yue HUANG**, Zhuoer Xu, Yuming Huang, and Jing TANG. [TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum.](https://arxiv.org/abs/2509.03037) ICSOC 2026.
 1. **Yue HUANG**, Shuzheng Wang, and Jing TANG. [Measuring Ethereum's Blob Market: Builders, Rollups, and Benchmarks.](https://arxiv.org/pdf/2411.03892) Springer WISE 2026.
 1. Shuzheng Wang, **Yue HUANG**, Wenqin Zhang, Yuming Huang, Xuechao Wang, and Jing TANG. [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum’s Block Building Market.](https://dl.acm.org/doi/pdf/10.1145/3696410.3714754) ACM WWW 2025.
